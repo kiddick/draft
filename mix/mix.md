@@ -17,3 +17,7 @@ CDN acronym.
 * [Curly's Law: Do One Thing](http://blog.codinghorror.com/curlys-law-do-one-thing/)
 
 Coding horror article.
+<hr>
+* [Code generation (compiler) - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Code_generation_%28compiler%29)
+
+Code generation explanation.
