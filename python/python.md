@@ -28,3 +28,7 @@ flask-admin description
 * [Python by Luis Solis | ZEEF](https://python.zeef.com/luis.solis)
 
 A bunch of python related links (from reddit).
+<hr>
+* [Functional Programming: Concepts, Idioms and Philosophy](http://hkupty.github.io/2016/Functional-Programming-Concepts-Idioms-and-Philosophy/)
+
+Article about Functional Programming in python.
