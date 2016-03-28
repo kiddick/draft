@@ -21,3 +21,7 @@ Coding horror article.
 * [Code generation (compiler) - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Code_generation_%28compiler%29)
 
 Code generation explanation.
+<hr>
+* [LLVM - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/LLVM)
+
+Low Level Virtual Machine (LLVM)
