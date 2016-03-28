@@ -32,3 +32,7 @@ A bunch of python related links (from reddit).
 * [Functional Programming: Concepts, Idioms and Philosophy](http://hkupty.github.io/2016/Functional-Programming-Concepts-Idioms-and-Philosophy/)
 
 Article about Functional Programming in python.
+<hr>
+* [GitHub - tqdm/tqdm: A fast, extensible progress bar for Python](https://github.com/tqdm/tqdm)
+
+Python cli progress bar.
