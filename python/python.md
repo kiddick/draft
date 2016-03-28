@@ -36,3 +36,7 @@ Article about Functional Programming in python.
 * [GitHub - tqdm/tqdm: A fast, extensible progress bar for Python](https://github.com/tqdm/tqdm)
 
 Python cli progress bar.
+<hr>
+* [Dive Into Python](http://www.diveintopython.net/)
+
+Dive into python ebook.
