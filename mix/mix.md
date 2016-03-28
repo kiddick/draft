@@ -25,3 +25,7 @@ Code generation explanation.
 * [LLVM - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/LLVM)
 
 Low Level Virtual Machine (LLVM)
+<hr>
+* [Socket.IO](http://socket.io/)
+
+Realtime application framework (Node.JS server).
