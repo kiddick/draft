@@ -16,3 +16,7 @@ Into to decorators. This link was sent by my friend.
 * [How to use Filter, Map, and Reduce in Python 3.3.0 - Stack Overflow](http://stackoverflow.com/questions/13638898/how-to-use-filter-map-and-reduce-in-python-3-3-0)
 
 So map and filter returns iterators in python 3. Reduce was removed at all.
+<hr>
+* [Ruslan's Blog](https://ruslanspivak.com/)
+
+Blog with great articles about building interpreter and web server.
