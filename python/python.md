@@ -20,3 +20,7 @@ So map and filter returns iterators in python 3. Reduce was removed at all.
 * [Ruslan's Blog](https://ruslanspivak.com/)
 
 Blog with great articles about building interpreter and web server.
+<hr>
+* [What is Flask-Admin |  Eat at Joe's](http://mrjoes.github.io/2015/06/17/flask-admin-120.html)
+
+flask-admin description
