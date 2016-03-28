@@ -13,3 +13,7 @@ Least Recently Used (LRU).
 * [Content delivery network - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Content_delivery_network)
 
 CDN acronym.
+<hr>
+* [Curly's Law: Do One Thing](http://blog.codinghorror.com/curlys-law-do-one-thing/)
+
+Coding horror article.
