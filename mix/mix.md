@@ -9,3 +9,7 @@ Instainer is a Docker container hosting service which allows run instantly any D
 
 Faced with lru abbreviation. Some cash algorithms description.
 Least Recently Used (LRU).
+<hr>
+* [Content delivery network - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Content_delivery_network)
+
+CDN acronym.
