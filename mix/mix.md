@@ -29,3 +29,7 @@ Low Level Virtual Machine (LLVM)
 * [Socket.IO](http://socket.io/)
 
 Realtime application framework (Node.JS server).
+<hr>
+* [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+
+Picked form so answer.
