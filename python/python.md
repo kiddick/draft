@@ -24,3 +24,7 @@ Blog with great articles about building interpreter and web server.
 * [What is Flask-Admin |  Eat at Joe's](http://mrjoes.github.io/2015/06/17/flask-admin-120.html)
 
 flask-admin description
+<hr>
+* [Python by Luis Solis | ZEEF](https://python.zeef.com/luis.solis)
+
+A bunch of python related links (from reddit).
