@@ -12,3 +12,7 @@ Article with basics of iterators.
 * http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/
 
 Into to decorators. This link was sent by my friend.
+<hr>
+* [How to use Filter, Map, and Reduce in Python 3.3.0 - Stack Overflow](http://stackoverflow.com/questions/13638898/how-to-use-filter-map-and-reduce-in-python-3-3-0)
+
+So map and filter returns iterators in python 3. Reduce was removed at all.
