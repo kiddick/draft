@@ -40,3 +40,7 @@ Python cli progress bar.
 * [Dive Into Python](http://www.diveintopython.net/)
 
 Dive into python ebook.
+<hr>
+* [GitHub - getlogbook/logbook: A cool logging replacement for Python.](https://github.com/getlogbook/logbook)
+
+Custom module for logging in python. Check it later.
