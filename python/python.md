@@ -64,3 +64,7 @@ For else in python.
 * [Default Parameter Values in Python](http://effbot.org/zone/default-values.htm)
 
 Very good article about behavior of default parameter in python.
+<hr>
+* [A Curious Course on Coroutines and Concurrency](http://www.dabeaz.com/coroutines/)
+
+Cproutines and other presentatiions about cool python stuff.
