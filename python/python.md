@@ -44,3 +44,7 @@ Dive into python ebook.
 * [GitHub - getlogbook/logbook: A cool logging replacement for Python.](https://github.com/getlogbook/logbook)
 
 Custom module for logging in python. Check it later.
+<hr>
+* [GitHub - Junnplus/awesome-python-books: Directory of Python books](https://github.com/Junnplus/awesome-python-books)
+
+repo with python books
