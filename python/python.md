@@ -72,3 +72,11 @@ Cproutines and other presentatiions about cool python stuff.
 * [Articles in tag "Python"](http://eli.thegreenplace.net/tag/python)
 
 Blog with a bunch of python articles.
+<hr>
+* [
+        
+            zzzeek
+        
+    ](http://techspot.zzzeek.org/)
+
+Another blog of creator of SqlAlchemy and etc.
