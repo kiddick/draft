@@ -45,3 +45,7 @@ Mention bot for github.
 * [GitHub - NoviceLive/bintut: Teach you a binary exploitation for great good.](https://github.com/NoviceLive/bintut)
 
 Some exploitation of vulnerabilities.
+<hr>
+* [GitHub - traverseda/pycraft: A fork of "Minecraft in 500 lines of python" intended to be used as a real engine, instead of as a learning example.](https://github.com/traverseda/pycraft)
+
+Minecraft powered by python.
