@@ -56,3 +56,7 @@ Python code visualization.
 * [python: How do I know what type of exception occured? - Stack Overflow](http://stackoverflow.com/questions/9823936/python-how-do-i-know-what-type-of-exception-occured)
 
 Your information was successfully added.
+<hr>
+* [if statement - Why does python use 'else' after for and while loops? - Stack Overflow](http://stackoverflow.com/questions/9979970/why-does-python-use-else-after-for-and-while-loops)
+
+For else in python.
