@@ -41,3 +41,7 @@ Status line plugin for vim.
 * [GitHub - facebook/mention-bot: Automatically mention potential reviewers on pull requests.](https://github.com/facebook/mention-bot)
 
 Mention bot for github.
+<hr>
+* [GitHub - NoviceLive/bintut: Teach you a binary exploitation for great good.](https://github.com/NoviceLive/bintut)
+
+Some exploitation of vulnerabilities.
