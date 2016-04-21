@@ -52,3 +52,7 @@ repo with python books
 * [GitHub - pgbovine/OnlinePythonTutor: Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser](https://github.com/pgbovine/OnlinePythonTutor/)
 
 Python code visualization.
+<hr>
+* [python: How do I know what type of exception occured? - Stack Overflow](http://stackoverflow.com/questions/9823936/python-how-do-i-know-what-type-of-exception-occured)
+
+Your information was successfully added.
