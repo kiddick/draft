@@ -4,3 +4,7 @@ Javascript
 * https://www.codecademy.com/learn/javascript
 
 Codeacademy Javascript course.
+<hr>
+* [GitHub - getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.](https://github.com/getify/You-Dont-Know-JS)
+
+Books about javascript.
