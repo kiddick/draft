@@ -37,3 +37,7 @@ Picked form so answer.
 * [GitHub - powerline/powerline: Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.](https://github.com/powerline/powerline)
 
 Status line plugin for vim.
+<hr>
+* [GitHub - facebook/mention-bot: Automatically mention potential reviewers on pull requests.](https://github.com/facebook/mention-bot)
+
+Mention bot for github.
