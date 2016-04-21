@@ -68,3 +68,7 @@ Very good article about behavior of default parameter in python.
 * [A Curious Course on Coroutines and Concurrency](http://www.dabeaz.com/coroutines/)
 
 Cproutines and other presentatiions about cool python stuff.
+<hr>
+* [Articles in tag "Python"](http://eli.thegreenplace.net/tag/python)
+
+Blog with a bunch of python articles.
