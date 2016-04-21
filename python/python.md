@@ -60,3 +60,7 @@ Your information was successfully added.
 * [if statement - Why does python use 'else' after for and while loops? - Stack Overflow](http://stackoverflow.com/questions/9979970/why-does-python-use-else-after-for-and-while-loops)
 
 For else in python.
+<hr>
+* [Default Parameter Values in Python](http://effbot.org/zone/default-values.htm)
+
+Very good article about behavior of default parameter in python.
