@@ -80,3 +80,7 @@ Blog with a bunch of python articles.
     ](http://techspot.zzzeek.org/)
 
 Another blog of creator of SqlAlchemy and etc.
+<hr>
+* [GitHub - davidism/basic_flask: Demonstration of using Flask, SQLAlchemy, and Alembic together.](https://github.com/davidism/basic_flask)
+
+Basic flask demo.
