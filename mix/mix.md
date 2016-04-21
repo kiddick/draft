@@ -49,3 +49,7 @@ Some exploitation of vulnerabilities.
 * [GitHub - traverseda/pycraft: A fork of "Minecraft in 500 lines of python" intended to be used as a real engine, instead of as a learning example.](https://github.com/traverseda/pycraft)
 
 Minecraft powered by python.
+<hr>
+* [ Compiled vs Interpreted Languages](http://www.programmerinterview.com/index.php/general-miscellaneous/whats-the-difference-between-a-compiled-and-an-interpreted-language/)
+
+Article about difference between a compiled and interpreted language?
