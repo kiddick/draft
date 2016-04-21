@@ -48,3 +48,7 @@ Custom module for logging in python. Check it later.
 * [GitHub - Junnplus/awesome-python-books: Directory of Python books](https://github.com/Junnplus/awesome-python-books)
 
 repo with python books
+<hr>
+* [GitHub - pgbovine/OnlinePythonTutor: Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser](https://github.com/pgbovine/OnlinePythonTutor/)
+
+Python code visualization.
