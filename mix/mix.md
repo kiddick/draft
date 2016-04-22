@@ -53,3 +53,7 @@ Minecraft powered by python.
 * [ Compiled vs Interpreted Languages](http://www.programmerinterview.com/index.php/general-miscellaneous/whats-the-difference-between-a-compiled-and-an-interpreted-language/)
 
 Article about difference between a compiled and interpreted language?
+<hr>
+* [English Irregular Verbs List - UsingEnglish.com](http://www.usingenglish.com/reference/irregular-verbs/)
+
+Bot for irregular verbs?
