@@ -84,3 +84,7 @@ Another blog of creator of SqlAlchemy and etc.
 * [GitHub - davidism/basic_flask: Demonstration of using Flask, SQLAlchemy, and Alembic together.](https://github.com/davidism/basic_flask)
 
 Basic flask demo.
+<hr>
+* [design - python factory function best practices - Programmers Stack Exchange](http://programmers.stackexchange.com/questions/166699/python-factory-function-best-practices)
+
+Class method example.
