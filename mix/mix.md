@@ -57,3 +57,7 @@ Article about difference between a compiled and interpreted language?
 * [English Irregular Verbs List - UsingEnglish.com](http://www.usingenglish.com/reference/irregular-verbs/)
 
 Bot for irregular verbs?
+<hr>
+* [GitHub - cjcenizal/flexbox-patterns: Patterns for using flexbox CSS to build awesome UI components.](https://github.com/cjcenizal/flexbox-patterns)
+
+Flexbox css patterns.
