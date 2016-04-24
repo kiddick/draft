@@ -5,3 +5,4 @@
 * _[Calling an external command in Python](https://stackoverflow.com/q/89228)_
 * _[How can I make a chain of function decorators in Python?](https://stackoverflow.com/q/739654)_
 * _[What does if __name__ == &quot;__main__&quot; do?](https://stackoverflow.com/q/419163)_
+* _[How can I merge two Python dictionaries in a single expression?](https://stackoverflow.com/q/38987)_
