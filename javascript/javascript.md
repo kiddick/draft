@@ -12,3 +12,7 @@ Books about javascript.
 * [Learn AngularJS With Bootstrap - Code School](https://www.codeschool.com/learn-angular-js-with-bootstrap)
 
 Codeacademy angularjs.
+<hr>
+* [https://www.youtube.com/watch?v=1KFs3q503KM&feature=youtu.be](https://www.youtube.com/watch?v=1KFs3q503KM&feature=youtu.be)
+
+Angular js video.
