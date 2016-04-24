@@ -4,3 +4,4 @@
 * _[Does Python have a ternary conditional operator?](https://stackoverflow.com/q/394809)_
 * _[Calling an external command in Python](https://stackoverflow.com/q/89228)_
 * _[How can I make a chain of function decorators in Python?](https://stackoverflow.com/q/739654)_
+* _[What does if __name__ == &quot;__main__&quot; do?](https://stackoverflow.com/q/419163)_
