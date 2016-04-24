@@ -6,3 +6,4 @@
 * _[How can I make a chain of function decorators in Python?](https://stackoverflow.com/q/739654)_
 * _[What does if __name__ == &quot;__main__&quot; do?](https://stackoverflow.com/q/419163)_
 * _[How can I merge two Python dictionaries in a single expression?](https://stackoverflow.com/q/38987)_
+* _[Sort a Python dictionary by value](https://stackoverflow.com/q/613183)_
