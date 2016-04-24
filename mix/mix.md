@@ -61,3 +61,7 @@ Bot for irregular verbs?
 * [GitHub - cjcenizal/flexbox-patterns: Patterns for using flexbox CSS to build awesome UI components.](https://github.com/cjcenizal/flexbox-patterns)
 
 Flexbox css patterns.
+<hr>
+* [Modaal is a WCAG 2.0 Level AA accessible modal plugin](http://humaan.com/modaal/)
+
+CSS lib.
