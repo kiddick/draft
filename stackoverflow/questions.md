@@ -8,3 +8,4 @@
 * _[How can I merge two Python dictionaries in a single expression?](https://stackoverflow.com/q/38987)_
 * _[Sort a Python dictionary by value](https://stackoverflow.com/q/613183)_
 * _[How do I install pip on Windows?](https://stackoverflow.com/q/4750806)_
+* _[How to check if a directory exists and create it if necessary?](https://stackoverflow.com/q/273192)_
