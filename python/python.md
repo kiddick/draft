@@ -88,3 +88,7 @@ Basic flask demo.
 * [design - python factory function best practices - Programmers Stack Exchange](http://programmers.stackexchange.com/questions/166699/python-factory-function-best-practices)
 
 Class method example.
+<hr>
+* [Welcome to Data Analysis in Python! — Data Analysis in Python 0.1 documentation](http://www.data-analysis-in-python.org/index.html)
+
+Data analysis in python.
