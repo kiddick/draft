@@ -96,3 +96,7 @@ Data analysis in python.
 * [GitHub - mahmoud/boltons: Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton.](https://github.com/mahmoud/boltons)
 
 Bunch of useful snippets.
+<hr>
+* [threading - Why Was Python Written with the GIL? - Programmers Stack Exchange](http://programmers.stackexchange.com/questions/186889/why-was-python-written-with-the-gil)
+
+GIL.
