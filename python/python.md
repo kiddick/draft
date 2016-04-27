@@ -92,3 +92,7 @@ Class method example.
 * [Welcome to Data Analysis in Python! — Data Analysis in Python 0.1 documentation](http://www.data-analysis-in-python.org/index.html)
 
 Data analysis in python.
+<hr>
+* [GitHub - mahmoud/boltons: Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton.](https://github.com/mahmoud/boltons)
+
+Bunch of useful snippets.
