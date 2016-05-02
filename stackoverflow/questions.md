@@ -9,3 +9,4 @@
 * _[Sort a Python dictionary by value](https://stackoverflow.com/q/613183)_
 * _[How do I install pip on Windows?](https://stackoverflow.com/q/4750806)_
 * _[How to check if a directory exists and create it if necessary?](https://stackoverflow.com/q/273192)_
+* _[Using global variables in a function other than the one that created them](https://stackoverflow.com/q/423379)_
