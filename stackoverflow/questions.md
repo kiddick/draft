@@ -10,3 +10,4 @@
 * _[How do I install pip on Windows?](https://stackoverflow.com/q/4750806)_
 * _[How to check if a directory exists and create it if necessary?](https://stackoverflow.com/q/273192)_
 * _[Using global variables in a function other than the one that created them](https://stackoverflow.com/q/423379)_
+* _[Best way to check if a list is empty](https://stackoverflow.com/q/53513)_
