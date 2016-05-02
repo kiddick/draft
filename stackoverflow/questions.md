@@ -11,3 +11,4 @@
 * _[How to check if a directory exists and create it if necessary?](https://stackoverflow.com/q/273192)_
 * _[Using global variables in a function other than the one that created them](https://stackoverflow.com/q/423379)_
 * _[Best way to check if a list is empty](https://stackoverflow.com/q/53513)_
+* _[What is the difference between @staticmethod and @classmethod in Python?](https://stackoverflow.com/q/136097)_
