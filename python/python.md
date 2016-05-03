@@ -100,3 +100,7 @@ Bunch of useful snippets.
 * [threading - Why Was Python Written with the GIL? - Programmers Stack Exchange](http://programmers.stackexchange.com/questions/186889/why-was-python-written-with-the-gil)
 
 GIL.
+<hr>
+* [Understanding Python metaclasses | ionel's codelog](https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/)
+
+Metaclasses reddit link.
