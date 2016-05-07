@@ -13,3 +13,4 @@
 * _[Best way to check if a list is empty](https://stackoverflow.com/q/53513)_
 * _[What is the difference between @staticmethod and @classmethod in Python?](https://stackoverflow.com/q/136097)_
 * _[&quot;Least Astonishment&quot; in Python: The Mutable Default Argument](https://stackoverflow.com/q/1132941)_
+* _[Python - append vs. extend](https://stackoverflow.com/q/252703)_
