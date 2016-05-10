@@ -65,3 +65,7 @@ Flexbox css patterns.
 * [Modaal is a WCAG 2.0 Level AA accessible modal plugin](http://humaan.com/modaal/)
 
 CSS lib.
+<hr>
+* [What Every Computer Scientist Should Know About Floating-Point Arithmetic](http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+
+Floating point.
