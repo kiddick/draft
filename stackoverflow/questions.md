@@ -19,3 +19,4 @@
 * _[Does Python have a string contains substring method?](https://stackoverflow.com/q/3437059)_
 * _[Is there a way to run Python on Android?](https://stackoverflow.com/q/101754)_
 * _[How to list all files of a directory in Python](https://stackoverflow.com/q/3207219)_
+* _[Understanding Python super() with __init__() methods](https://stackoverflow.com/q/576169)_
