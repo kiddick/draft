@@ -20,3 +20,4 @@
 * _[Is there a way to run Python on Android?](https://stackoverflow.com/q/101754)_
 * _[How to list all files of a directory in Python](https://stackoverflow.com/q/3207219)_
 * _[Understanding Python super() with __init__() methods](https://stackoverflow.com/q/576169)_
+* _[Difference between __str__ and __repr__ in Python](https://stackoverflow.com/q/1436703)_
