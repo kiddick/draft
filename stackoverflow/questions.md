@@ -18,3 +18,4 @@
 * _[Accessing the index in Python for loops](https://stackoverflow.com/q/522563)_
 * _[Does Python have a string contains substring method?](https://stackoverflow.com/q/3437059)_
 * _[Is there a way to run Python on Android?](https://stackoverflow.com/q/101754)_
+* _[How to list all files of a directory in Python](https://stackoverflow.com/q/3207219)_
