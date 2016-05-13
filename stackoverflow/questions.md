@@ -31,3 +31,4 @@
 * _[Parse String to Float or Int](https://stackoverflow.com/q/379906)_
 * _[How to get current time in Python](https://stackoverflow.com/q/415511)_
 * _[Print in terminal with colors using Python?](https://stackoverflow.com/q/287871)_
+* _[Static class variables in Python](https://stackoverflow.com/q/68645)_
