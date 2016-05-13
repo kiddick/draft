@@ -27,3 +27,4 @@
 * _[Catch multiple exceptions in one line (except block)](https://stackoverflow.com/q/6470428)_
 * _[What IDE to use for Python?](https://stackoverflow.com/q/81584)_
 * _[Finding the index of an item given a list containing it in Python](https://stackoverflow.com/q/176918)_
+* _[Check if a given key already exists in a dictionary](https://stackoverflow.com/q/1602934)_
