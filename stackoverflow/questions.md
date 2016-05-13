@@ -34,3 +34,4 @@
 * _[Static class variables in Python](https://stackoverflow.com/q/68645)_
 * _[How to get the size of a list](https://stackoverflow.com/q/1712227)_
 * _[How can I remove (chomp) a newline in Python?](https://stackoverflow.com/q/275018)_
+* _[Static methods in Python?](https://stackoverflow.com/q/735975)_
