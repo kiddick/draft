@@ -26,3 +26,4 @@
 * _[Add key to a dictionary in Python?](https://stackoverflow.com/q/1024847)_
 * _[Catch multiple exceptions in one line (except block)](https://stackoverflow.com/q/6470428)_
 * _[What IDE to use for Python?](https://stackoverflow.com/q/81584)_
+* _[Finding the index of an item given a list containing it in Python](https://stackoverflow.com/q/176918)_
