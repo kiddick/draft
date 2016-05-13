@@ -22,3 +22,4 @@
 * _[Understanding Python super() with __init__() methods](https://stackoverflow.com/q/576169)_
 * _[Difference between __str__ and __repr__ in Python](https://stackoverflow.com/q/1436703)_
 * _[How can I represent an &#39;Enum&#39; in Python?](https://stackoverflow.com/q/36932)_
+* _[Explain Python&#39;s slice notation](https://stackoverflow.com/q/509211)_
