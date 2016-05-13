@@ -29,3 +29,4 @@
 * _[Finding the index of an item given a list containing it in Python](https://stackoverflow.com/q/176918)_
 * _[Check if a given key already exists in a dictionary](https://stackoverflow.com/q/1602934)_
 * _[Parse String to Float or Int](https://stackoverflow.com/q/379906)_
+* _[How to get current time in Python](https://stackoverflow.com/q/415511)_
