@@ -35,3 +35,4 @@
 * _[How to get the size of a list](https://stackoverflow.com/q/1712227)_
 * _[How can I remove (chomp) a newline in Python?](https://stackoverflow.com/q/275018)_
 * _[Static methods in Python?](https://stackoverflow.com/q/735975)_
+* _[Is there a way to substring a string in Python?](https://stackoverflow.com/q/663171)_
