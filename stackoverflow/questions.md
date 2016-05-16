@@ -48,3 +48,4 @@
 * _[How to append list to second list (concatenate lists)](https://stackoverflow.com/q/1720421)_
 * _[Python string formatting: % vs. .format](https://stackoverflow.com/q/5082452)_
 * _[How to read a file line by line into a list with Python](https://stackoverflow.com/q/3277503)_
+* _[Upgrading all packages with pip](https://stackoverflow.com/q/2720014)_
