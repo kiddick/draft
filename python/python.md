@@ -104,3 +104,7 @@ GIL.
 * [Understanding Python metaclasses | ionel's codelog](https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/)
 
 Metaclasses reddit link.
+<hr>
+* [Learn Python the Methodical Way - Real Python](https://realpython.com/blog/python/learn-python-the-methodical-way/#.VzjXfMxHnSk.reddit)
+
+Cool article about memorization stuff with succinct drills.
