@@ -42,3 +42,4 @@
 * _[Python join, why is it string.join(list) instead of list.join(string)?](https://stackoverflow.com/q/493819)_
 * _[Iterating over dictionaries using for loops in Python](https://stackoverflow.com/q/3294889)_
 * _[Why is reading lines from stdin much slower in C++ than Python?](https://stackoverflow.com/q/9371238)_
+* _[How do I check if a string is a number (float) in Python?](https://stackoverflow.com/q/354038)_
