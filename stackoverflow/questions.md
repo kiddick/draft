@@ -43,3 +43,4 @@
 * _[Iterating over dictionaries using for loops in Python](https://stackoverflow.com/q/3294889)_
 * _[Why is reading lines from stdin much slower in C++ than Python?](https://stackoverflow.com/q/9371238)_
 * _[How do I check if a string is a number (float) in Python?](https://stackoverflow.com/q/354038)_
+* _[How do you read from stdin in Python?](https://stackoverflow.com/q/1450393)_
