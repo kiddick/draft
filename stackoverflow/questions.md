@@ -51,3 +51,4 @@
 * _[Upgrading all packages with pip](https://stackoverflow.com/q/2720014)_
 * _[Why use pip over easy_install?](https://stackoverflow.com/q/3220404)_
 * _[How do I randomly select an item from a list using Python?](https://stackoverflow.com/q/306400)_
+* _[How do I sort a list of dictionaries by values of the dictionary in Python?](https://stackoverflow.com/q/72899)_
