@@ -49,3 +49,4 @@
 * _[Python string formatting: % vs. .format](https://stackoverflow.com/q/5082452)_
 * _[How to read a file line by line into a list with Python](https://stackoverflow.com/q/3277503)_
 * _[Upgrading all packages with pip](https://stackoverflow.com/q/2720014)_
+* _[Why use pip over easy_install?](https://stackoverflow.com/q/3220404)_
