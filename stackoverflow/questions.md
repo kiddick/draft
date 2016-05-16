@@ -46,3 +46,4 @@
 * _[How do you read from stdin in Python?](https://stackoverflow.com/q/1450393)_
 * _[How to clone or copy a list in Python?](https://stackoverflow.com/q/2612802)_
 * _[How to append list to second list (concatenate lists)](https://stackoverflow.com/q/1720421)_
+* _[Python string formatting: % vs. .format](https://stackoverflow.com/q/5082452)_
