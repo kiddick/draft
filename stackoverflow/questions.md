@@ -40,3 +40,4 @@
 * _[Making a flat list out of list of lists in Python](https://stackoverflow.com/q/952914)_
 * _[How do you split a list into evenly sized chunks in Python?](https://stackoverflow.com/q/312443)_
 * _[Python join, why is it string.join(list) instead of list.join(string)?](https://stackoverflow.com/q/493819)_
+* _[Iterating over dictionaries using for loops in Python](https://stackoverflow.com/q/3294889)_
