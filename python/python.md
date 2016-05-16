@@ -112,3 +112,7 @@ Cool article about memorization stuff with succinct drills.
 * [Python Programming/Input and Output - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Python_Programming/Input_and_Output)
 
 I/O in python.
+<hr>
+* [string - Wrap long lines in Python - Stack Overflow](http://stackoverflow.com/questions/3346230/wrap-long-lines-in-python)
+
+Wrapping long lines.
