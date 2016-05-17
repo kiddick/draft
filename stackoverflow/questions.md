@@ -56,3 +56,4 @@
 * _[How do I copy a file in python?](https://stackoverflow.com/q/123198)_
 * _[Determine the type of an object?](https://stackoverflow.com/q/2225038)_
 * _[Replacements for switch statement in Python?](https://stackoverflow.com/q/60208)_
+* _[Getting the last element of a list in Python](https://stackoverflow.com/q/930397)_
