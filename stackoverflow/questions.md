@@ -52,3 +52,4 @@
 * _[Why use pip over easy_install?](https://stackoverflow.com/q/3220404)_
 * _[How do I randomly select an item from a list using Python?](https://stackoverflow.com/q/306400)_
 * _[How do I sort a list of dictionaries by values of the dictionary in Python?](https://stackoverflow.com/q/72899)_
+* _[What does ** (double star) and * (star) do for Python parameters?](https://stackoverflow.com/q/36901)_
