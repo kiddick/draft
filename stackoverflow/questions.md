@@ -55,3 +55,4 @@
 * _[What does ** (double star) and * (star) do for Python parameters?](https://stackoverflow.com/q/36901)_
 * _[How do I copy a file in python?](https://stackoverflow.com/q/123198)_
 * _[Determine the type of an object?](https://stackoverflow.com/q/2225038)_
+* _[Replacements for switch statement in Python?](https://stackoverflow.com/q/60208)_
