@@ -57,3 +57,4 @@
 * _[Determine the type of an object?](https://stackoverflow.com/q/2225038)_
 * _[Replacements for switch statement in Python?](https://stackoverflow.com/q/60208)_
 * _[Getting the last element of a list in Python](https://stackoverflow.com/q/930397)_
+* _[How to convert string to lowercase in Python?](https://stackoverflow.com/q/6797984)_
