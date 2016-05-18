@@ -61,3 +61,4 @@
 * _[Converting string into datetime](https://stackoverflow.com/q/466345)_
 * _[*args and **kwargs?](https://stackoverflow.com/q/3394835)_
 * _[*args and **kwargs?](https://stackoverflow.com/q/3394835)_
+* _[Why is 1000000000000000 in range(1000000000000001) so fast in Python 3?](https://stackoverflow.com/q/30081275)_
