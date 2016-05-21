@@ -65,3 +65,4 @@
 * _[Reverse a string in Python](https://stackoverflow.com/q/931092)_
 * _[Calling a function of a module from a string with the function&#39;s name in Python](https://stackoverflow.com/q/3061)_
 * _[Manually raising (throwing) an exception in Python](https://stackoverflow.com/q/2052390)_
+* _[How to know if an object has an attribute in Python](https://stackoverflow.com/q/610883)_
