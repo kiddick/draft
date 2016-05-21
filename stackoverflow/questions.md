@@ -63,3 +63,4 @@
 * _[*args and **kwargs?](https://stackoverflow.com/q/3394835)_
 * _[Why is 1000000000000000 in range(1000000000000001) so fast in Python 3?](https://stackoverflow.com/q/30081275)_
 * _[Reverse a string in Python](https://stackoverflow.com/q/931092)_
+* _[Calling a function of a module from a string with the function&#39;s name in Python](https://stackoverflow.com/q/3061)_
