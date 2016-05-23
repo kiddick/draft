@@ -69,3 +69,7 @@ CSS lib.
 * [What Every Computer Scientist Should Know About Floating-Point Arithmetic](http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 
 Floating point.
+<hr>
+* [GitHub - klen/python-mode: Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.](https://github.com/klen/python-mode)
+
+Vim plugin/
