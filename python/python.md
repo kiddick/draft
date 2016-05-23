@@ -120,3 +120,7 @@ Wrapping long lines.
 * [GitHub - joshnewlan/say_what: Using speech-to-text to fully check out during con calls](https://github.com/joshnewlan/say_what)
 
 Check source code later.
+<hr>
+* [Dulwich](https://www.dulwich.io/)
+
+Python implementation of the Git file formats and protocols.
