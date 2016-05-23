@@ -67,3 +67,4 @@
 * _[Manually raising (throwing) an exception in Python](https://stackoverflow.com/q/2052390)_
 * _[How to know if an object has an attribute in Python](https://stackoverflow.com/q/610883)_
 * _[How to know if an object has an attribute in Python](https://stackoverflow.com/q/610883)_
+* _[error: Unable to find vcvarsall.bat](https://stackoverflow.com/q/2817869)_
