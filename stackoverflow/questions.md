@@ -69,3 +69,4 @@
 * _[How to know if an object has an attribute in Python](https://stackoverflow.com/q/610883)_
 * _[error: Unable to find vcvarsall.bat](https://stackoverflow.com/q/2817869)_
 * _[Create a dictionary with list comprehension in Python](https://stackoverflow.com/q/1747817)_
+* _[How do you append to a file in Python?](https://stackoverflow.com/q/4706499)_
