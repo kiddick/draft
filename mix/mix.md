@@ -73,3 +73,7 @@ Floating point.
 * [GitHub - klen/python-mode: Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.](https://github.com/klen/python-mode)
 
 Vim plugin/
+<hr>
+* [I Don't Want To Hire You If You Can't Reverse a Binary Tree | www.thecodebarbarian.com](http://thecodebarbarian.com/i-dont-want-to-hire-you-if-you-cant-reverse-a-binary-tree.html)
+
+Article about trees.
