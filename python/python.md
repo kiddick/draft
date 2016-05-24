@@ -128,3 +128,7 @@ Python implementation of the Git file formats and protocols.
 * [GitHub - realpython/ultimate-flask-front-end: blog post](https://github.com/realpython/ultimate-flask-front-end)
 
 RP tutor.
+<hr>
+* [Jupyter Notebook Viewer](http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
+
+Probability in python.
