@@ -71,3 +71,4 @@
 * _[Create a dictionary with list comprehension in Python](https://stackoverflow.com/q/1747817)_
 * _[How do you append to a file in Python?](https://stackoverflow.com/q/4706499)_
 * _[What is __init__.py for?](https://stackoverflow.com/q/448271)_
+* _[Python @classmethod and @staticmethod for beginner?](https://stackoverflow.com/q/12179271)_
