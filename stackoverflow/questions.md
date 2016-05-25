@@ -72,3 +72,4 @@
 * _[How do you append to a file in Python?](https://stackoverflow.com/q/4706499)_
 * _[What is __init__.py for?](https://stackoverflow.com/q/448271)_
 * _[Python @classmethod and @staticmethod for beginner?](https://stackoverflow.com/q/12179271)_
+* _[Find current directory and file&#39;s directory](https://stackoverflow.com/q/5137497)_
