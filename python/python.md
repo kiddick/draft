@@ -132,3 +132,7 @@ RP tutor.
 * [Jupyter Notebook Viewer](http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
 
 Probability in python.
+<hr>
+* [GitHub - bpython/bpython: bpython - A fancy curses interface to the Python interactive interpreter](https://github.com/bpython/bpython)
+
+Alternative REPL.
