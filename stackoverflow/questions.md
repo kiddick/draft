@@ -74,3 +74,4 @@
 * _[Python @classmethod and @staticmethod for beginner?](https://stackoverflow.com/q/12179271)_
 * _[Find current directory and file&#39;s directory](https://stackoverflow.com/q/5137497)_
 * _[How can you profile a Python script?](https://stackoverflow.com/q/582336)_
+* _[Getting the class name of an instance in Python](https://stackoverflow.com/q/510972)_
