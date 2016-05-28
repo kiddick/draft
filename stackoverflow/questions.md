@@ -76,3 +76,4 @@
 * _[How can you profile a Python script?](https://stackoverflow.com/q/582336)_
 * _[Getting the class name of an instance in Python](https://stackoverflow.com/q/510972)_
 * _[Peak detection in a 2D array](https://stackoverflow.com/q/3684484)_
+* _[Peak detection in a 2D array](https://stackoverflow.com/q/3684484)_
