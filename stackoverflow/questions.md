@@ -77,3 +77,4 @@
 * _[Getting the class name of an instance in Python](https://stackoverflow.com/q/510972)_
 * _[Peak detection in a 2D array](https://stackoverflow.com/q/3684484)_
 * _[Peak detection in a 2D array](https://stackoverflow.com/q/3684484)_
+* _[How to print to stderr in Python?](https://stackoverflow.com/q/5574702)_
