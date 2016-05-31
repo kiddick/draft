@@ -77,3 +77,7 @@ Vim plugin/
 * [I Don't Want To Hire You If You Can't Reverse a Binary Tree | www.thecodebarbarian.com](http://thecodebarbarian.com/i-dont-want-to-hire-you-if-you-cant-reverse-a-binary-tree.html)
 
 Article about trees.
+<hr>
+* [Machine Learning for Developers by Mike de Waard](https://xyclade.github.io/MachineLearning/)
+
+Machine learning for developers. Article from me bookmarks :)
