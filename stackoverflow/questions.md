@@ -82,3 +82,4 @@
 * _[Find all files in directory with extension .txt in Python](https://stackoverflow.com/q/3964681)_
 * _[How do I connect to a MySQL Database in Python?](https://stackoverflow.com/q/372885)_
 * _[The meaning of a single- and a double-underscore before an object name in Python](https://stackoverflow.com/q/1301346)_
+* _[Why does Python code run faster in a function?](https://stackoverflow.com/q/11241523)_
