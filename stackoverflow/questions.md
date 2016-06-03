@@ -79,3 +79,4 @@
 * _[Peak detection in a 2D array](https://stackoverflow.com/q/3684484)_
 * _[How to print to stderr in Python?](https://stackoverflow.com/q/5574702)_
 * _[Does Django scale?](https://stackoverflow.com/q/886221)_
+* _[Find all files in directory with extension .txt in Python](https://stackoverflow.com/q/3964681)_
