@@ -80,3 +80,4 @@
 * _[How to print to stderr in Python?](https://stackoverflow.com/q/5574702)_
 * _[Does Django scale?](https://stackoverflow.com/q/886221)_
 * _[Find all files in directory with extension .txt in Python](https://stackoverflow.com/q/3964681)_
+* _[How do I connect to a MySQL Database in Python?](https://stackoverflow.com/q/372885)_
