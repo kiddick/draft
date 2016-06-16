@@ -83,3 +83,7 @@
 * _[How do I connect to a MySQL Database in Python?](https://stackoverflow.com/q/372885)_
 * _[The meaning of a single- and a double-underscore before an object name in Python](https://stackoverflow.com/q/1301346)_
 * _[Why does Python code run faster in a function?](https://stackoverflow.com/q/11241523)_
+* _[How to leave/exit/deactivate a python virtualenv?](https://stackoverflow.com/q/990754)_
+* _[Nicest way to pad zeroes to string](https://stackoverflow.com/q/339007)_
+* _[Nicest way to pad zeroes to string](https://stackoverflow.com/q/339007)_
+* _[How to trim whitespace (including tabs)?](https://stackoverflow.com/q/1185524)_

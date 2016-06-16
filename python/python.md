@@ -136,3 +136,7 @@ Probability in python.
 * [GitHub - bpython/bpython: bpython - A fancy curses interface to the Python interactive interpreter](https://github.com/bpython/bpython)
 
 Alternative REPL.
+<hr>
+* [Machine Learning is Fun! — Medium](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.6yki0orcp)
+
+ML medium article.
