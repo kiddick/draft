@@ -81,3 +81,7 @@ Article about trees.
 * [Machine Learning for Developers by Mike de Waard](https://xyclade.github.io/MachineLearning/)
 
 Machine learning for developers. Article from me bookmarks :)
+<hr>
+* [GitHub - amitkaps/hackermath: Introduction to Statistics and Basics of Mathematics for Data Science - The Hacker's Way](https://github.com/amitkaps/hackermath)
+
+Some maths?
