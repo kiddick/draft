@@ -140,3 +140,8 @@ Alternative REPL.
 * [Machine Learning is Fun! — Medium](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.6yki0orcp)
 
 ML medium article.
+<hr>
+* [GitHub - jonathanslenders/ptpython: A better Python REPL](https://github.com/jonathanslenders/ptpython)
+
+Cool prompt for python.
+for configuring clone original config file to ~/.ptpython/config.py and change parameters
