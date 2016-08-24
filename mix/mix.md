@@ -85,3 +85,7 @@ Machine learning for developers. Article from me bookmarks :)
 * [GitHub - amitkaps/hackermath: Introduction to Statistics and Basics of Mathematics for Data Science - The Hacker's Way](https://github.com/amitkaps/hackermath)
 
 Some maths?
+<hr>
+* [禪](http://nkanaev.github.io/zen101/)
+
+Find zen stories by accident into github trending.
