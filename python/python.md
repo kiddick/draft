@@ -145,3 +145,7 @@ ML medium article.
 
 Cool prompt for python.
 for configuring clone original config file to ~/.ptpython/config.py and change parameters
+<hr>
+* [Contributing os.scandir() to Python](http://benhoyt.com/writings/scandir/)
+
+rml
