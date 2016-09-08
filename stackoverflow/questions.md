@@ -92,3 +92,4 @@
 * _[How to trim whitespace (including tabs)?](https://stackoverflow.com/q/1185524)_
 * _[How to trim whitespace (including tabs)?](https://stackoverflow.com/q/1185524)_
 * _[How to flush output of Python print?](https://stackoverflow.com/q/230751)_
+* _[Trimming a string in Python](https://stackoverflow.com/q/761804)_
