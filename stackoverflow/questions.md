@@ -94,3 +94,4 @@
 * _[How to flush output of Python print?](https://stackoverflow.com/q/230751)_
 * _[Trimming a string in Python](https://stackoverflow.com/q/761804)_
 * _[How to flush output of Python print?](https://stackoverflow.com/q/230751)_
+* _[How to remove an element from a list by index in Python?](https://stackoverflow.com/q/627435)_
