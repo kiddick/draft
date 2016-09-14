@@ -149,3 +149,7 @@ for configuring clone original config file to ~/.ptpython/config.py and change p
 * [Contributing os.scandir() to Python](http://benhoyt.com/writings/scandir/)
 
 rml
+<hr>
+* [Testing, for people who hate testing / fuzzy notepad](https://eev.ee/blog/2016/08/22/testing-for-people-who-hate-testing/)
+
+writing test
