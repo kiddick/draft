@@ -97,3 +97,4 @@
 * _[How to remove an element from a list by index in Python?](https://stackoverflow.com/q/627435)_
 * _[What is the difference between old style and new style classes in Python?](https://stackoverflow.com/q/54867)_
 * _[How to determine the variable type in Python?](https://stackoverflow.com/q/402504)_
+* _[What is the difference between old style and new style classes in Python?](https://stackoverflow.com/q/54867)_
