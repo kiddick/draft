@@ -98,3 +98,4 @@
 * _[What is the difference between old style and new style classes in Python?](https://stackoverflow.com/q/54867)_
 * _[How to determine the variable type in Python?](https://stackoverflow.com/q/402504)_
 * _[What is the difference between old style and new style classes in Python?](https://stackoverflow.com/q/54867)_
+* _[How can I count the occurrences of a list item in Python?](https://stackoverflow.com/q/2600191)_
