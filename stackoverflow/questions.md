@@ -100,3 +100,4 @@
 * _[What is the difference between old style and new style classes in Python?](https://stackoverflow.com/q/54867)_
 * _[How can I count the occurrences of a list item in Python?](https://stackoverflow.com/q/2600191)_
 * _[Extracting extension from filename in Python](https://stackoverflow.com/q/541390)_
+* _[Why does comparing strings in Python using either &#39;==&#39; or &#39;is&#39; sometimes produce a different result?](https://stackoverflow.com/q/1504717)_
