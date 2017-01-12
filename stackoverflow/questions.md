@@ -103,3 +103,4 @@
 * _[Why does comparing strings in Python using either &#39;==&#39; or &#39;is&#39; sometimes produce a different result?](https://stackoverflow.com/q/1504717)_
 * _[Proper way to declare custom exceptions in modern Python?](https://stackoverflow.com/q/1319615)_
 * _[Extracting extension from filename in Python](https://stackoverflow.com/q/541390)_
+* _[Proper way to declare custom exceptions in modern Python?](https://stackoverflow.com/q/1319615)_
