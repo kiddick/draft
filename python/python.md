@@ -153,3 +153,7 @@ rml
 * [Testing, for people who hate testing / fuzzy notepad](https://eev.ee/blog/2016/08/22/testing-for-people-who-hate-testing/)
 
 writing test
+<hr>
+* [The only problem with Python 3’s str is that you don’t grok it - Drew DeVault’s Blog](http://sircmpwn.github.io/2017/01/13/The-problem-with-Python-3.html)
+
+good reason to switch code to python 3
