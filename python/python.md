@@ -157,3 +157,7 @@ writing test
 * [The only problem with Python 3’s str is that you don’t grok it - Drew DeVault’s Blog](http://sircmpwn.github.io/2017/01/13/The-problem-with-Python-3.html)
 
 good reason to switch code to python 3
+<hr>
+* [Dec 2016 BayPiggies Talk at LinkedIn: Introducing Type Annotations for Python - YouTube](https://www.youtube.com/watch?v=ZP_QV4ccFHQ)
+
+talk from @pydigest
