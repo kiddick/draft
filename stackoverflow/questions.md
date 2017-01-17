@@ -106,3 +106,4 @@
 * _[Proper way to declare custom exceptions in modern Python?](https://stackoverflow.com/q/1319615)_
 * _[What is the purpose of self?](https://stackoverflow.com/q/2709821)_
 * _[Why are Python lambdas useful?](https://stackoverflow.com/q/890128)_
+* _[In Python, how do I determine if an object is iterable?](https://stackoverflow.com/q/1952464)_
