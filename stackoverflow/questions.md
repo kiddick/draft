@@ -108,3 +108,4 @@
 * _[Why are Python lambdas useful?](https://stackoverflow.com/q/890128)_
 * _[In Python, how do I determine if an object is iterable?](https://stackoverflow.com/q/1952464)_
 * _[Convert bytes to a Python string](https://stackoverflow.com/q/606191)_
+* _[How to remove a key from a python dictionary?](https://stackoverflow.com/q/11277432)_
