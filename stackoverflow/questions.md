@@ -111,3 +111,4 @@
 * _[How to remove a key from a python dictionary?](https://stackoverflow.com/q/11277432)_
 * _[Why do people write #!/usr/bin/env python on the first line of a Python script?](https://stackoverflow.com/q/2429511)_
 * _[What&#39;s the difference between lists and tuples?](https://stackoverflow.com/q/626759)_
+* _[Most elegant way to check if the string is empty in Python?](https://stackoverflow.com/q/9573244)_
