@@ -114,3 +114,4 @@
 * _[Most elegant way to check if the string is empty in Python?](https://stackoverflow.com/q/9573244)_
 * _[How do I remove packages installed with Python&#39;s easy_install?](https://stackoverflow.com/q/1231688)_
 * _[Import a module from a relative path](https://stackoverflow.com/q/279237)_
+* _[How do you change the size of figures drawn with matplotlib?](https://stackoverflow.com/q/332289)_
