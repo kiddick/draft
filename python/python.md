@@ -161,3 +161,7 @@ good reason to switch code to python 3
 * [Dec 2016 BayPiggies Talk at LinkedIn: Introducing Type Annotations for Python - YouTube](https://www.youtube.com/watch?v=ZP_QV4ccFHQ)
 
 talk from @pydigest
+<hr>
+* https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc#.fujipta70
+
+underscore usage cases
