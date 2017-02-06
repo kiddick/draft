@@ -173,3 +173,7 @@ atricle about descriptors (from so answer)
 * [Metaclass Programming in Python, Part 2: -- Understanding the Arcana of Inheritance and Instance Creation -- ](http://www.gnosis.cx/publish/programming/metaclass_2.html)
 
 about metaclasses (so answer)
+<hr>
+* [A Primer on Python Metaclass Programming - O'Reilly Media](http://www.onlamp.com/pub/a/python/2003/04/17/metaclasses.html)
+
+again about metaclasses
