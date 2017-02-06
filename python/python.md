@@ -169,3 +169,7 @@ underscore usage cases
 * http://users.rcn.com/python/download/Descriptor.htm
 
 atricle about descriptors (from so answer)
+<hr>
+* [Metaclass Programming in Python, Part 2: -- Understanding the Arcana of Inheritance and Instance Creation -- ](http://www.gnosis.cx/publish/programming/metaclass_2.html)
+
+about metaclasses (so answer)
