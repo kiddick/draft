@@ -165,3 +165,7 @@ talk from @pydigest
 * https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc#.fujipta70
 
 underscore usage cases
+<hr>
+* http://users.rcn.com/python/download/Descriptor.htm
+
+atricle about descriptors (from so answer)
