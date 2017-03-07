@@ -120,3 +120,4 @@
 * _[Import a module from a relative path](https://stackoverflow.com/q/279237)_
 * _[How do I remove packages installed with Python&#39;s easy_install?](https://stackoverflow.com/q/1231688)_
 * _[How can I print literal curly-brace characters in python string and also use .format on it?](https://stackoverflow.com/q/5466451)_
+* _[Renaming columns in pandas](https://stackoverflow.com/q/11346283)_
