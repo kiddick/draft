@@ -122,3 +122,4 @@
 * _[How can I print literal curly-brace characters in python string and also use .format on it?](https://stackoverflow.com/q/5466451)_
 * _[Renaming columns in pandas](https://stackoverflow.com/q/11346283)_
 * _[How do I check what version of Python is running my script?](https://stackoverflow.com/q/1093322)_
+* _[What is a mixin, and why are they useful?](https://stackoverflow.com/q/533631)_
