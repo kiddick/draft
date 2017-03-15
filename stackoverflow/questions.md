@@ -125,3 +125,4 @@
 * _[What is a mixin, and why are they useful?](https://stackoverflow.com/q/533631)_
 * _[How can I get a list of locally installed Python modules?](https://stackoverflow.com/q/739993)_
 * _[If Python is interpreted, what are .pyc files?](https://stackoverflow.com/q/2998215)_
+* _[Use different Python version with virtualenv](https://stackoverflow.com/q/1534210)_
