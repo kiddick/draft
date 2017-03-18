@@ -126,3 +126,4 @@
 * _[How can I get a list of locally installed Python modules?](https://stackoverflow.com/q/739993)_
 * _[If Python is interpreted, what are .pyc files?](https://stackoverflow.com/q/2998215)_
 * _[Use different Python version with virtualenv](https://stackoverflow.com/q/1534210)_
+* _[UnicodeEncodeError: &#39;ascii&#39; codec can&#39;t encode character u&#39;\xa0&#39; in position 20: ordinal not in range(128)](https://stackoverflow.com/q/9942594)_
