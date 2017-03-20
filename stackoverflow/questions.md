@@ -128,3 +128,4 @@
 * _[Use different Python version with virtualenv](https://stackoverflow.com/q/1534210)_
 * _[UnicodeEncodeError: &#39;ascii&#39; codec can&#39;t encode character u&#39;\xa0&#39; in position 20: ordinal not in range(128)](https://stackoverflow.com/q/9942594)_
 * _[How do I parse XML in Python?](https://stackoverflow.com/q/1912434)_
+* _[Way to create multiline comments in Python?](https://stackoverflow.com/q/7696924)_
