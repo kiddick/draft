@@ -134,3 +134,4 @@
 * _[Installing specific package versions with pip](https://stackoverflow.com/q/5226311)_
 * _[How do I download a file over HTTP using Python?](https://stackoverflow.com/q/22676)_
 * _[Generate random integers between 0 and 9](https://stackoverflow.com/q/3996904)_
+* _[Terminating a Python script](https://stackoverflow.com/q/73663)_
