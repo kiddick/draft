@@ -132,3 +132,4 @@
 * _[How to import a module given the full path?](https://stackoverflow.com/q/67631)_
 * _[Correct way to write line to file in Python](https://stackoverflow.com/q/6159900)_
 * _[Installing specific package versions with pip](https://stackoverflow.com/q/5226311)_
+* _[How do I download a file over HTTP using Python?](https://stackoverflow.com/q/22676)_
