@@ -136,3 +136,4 @@
 * _[Generate random integers between 0 and 9](https://stackoverflow.com/q/3996904)_
 * _[Terminating a Python script](https://stackoverflow.com/q/73663)_
 * _[Terminating a Python script](https://stackoverflow.com/q/73663)_
+* _[Python @property versus getters and setters](https://stackoverflow.com/q/6618002)_
