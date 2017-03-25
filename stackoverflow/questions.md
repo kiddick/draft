@@ -137,3 +137,4 @@
 * _[Terminating a Python script](https://stackoverflow.com/q/73663)_
 * _[Terminating a Python script](https://stackoverflow.com/q/73663)_
 * _[Python @property versus getters and setters](https://stackoverflow.com/q/6618002)_
+* _[How do I remove/delete a folder that is not empty with Python?](https://stackoverflow.com/q/303200)_
