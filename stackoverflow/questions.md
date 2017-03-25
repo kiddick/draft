@@ -140,3 +140,4 @@
 * _[How do I remove/delete a folder that is not empty with Python?](https://stackoverflow.com/q/303200)_
 * _[null object in Python?](https://stackoverflow.com/q/3289601)_
 * _[python setup.py uninstall](https://stackoverflow.com/q/1550226)_
+* _[How to find if directory exists in Python](https://stackoverflow.com/q/8933237)_
