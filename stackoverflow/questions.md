@@ -144,3 +144,4 @@
 * _[&#39;has_key()&#39; or &#39;in&#39;?](https://stackoverflow.com/q/1323410)_
 * _[What are &quot;named tuples&quot; in Python?](https://stackoverflow.com/q/2970608)_
 * _[Delete an item from a dictionary](https://stackoverflow.com/q/5844672)_
+* _[How do you return multiple values in Python?](https://stackoverflow.com/q/354883)_
