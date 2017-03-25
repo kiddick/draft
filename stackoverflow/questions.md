@@ -142,3 +142,4 @@
 * _[python setup.py uninstall](https://stackoverflow.com/q/1550226)_
 * _[How to find if directory exists in Python](https://stackoverflow.com/q/8933237)_
 * _[&#39;has_key()&#39; or &#39;in&#39;?](https://stackoverflow.com/q/1323410)_
+* _[What are &quot;named tuples&quot; in Python?](https://stackoverflow.com/q/2970608)_
