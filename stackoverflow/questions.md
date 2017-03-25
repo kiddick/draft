@@ -145,3 +145,4 @@
 * _[What are &quot;named tuples&quot; in Python?](https://stackoverflow.com/q/2970608)_
 * _[Delete an item from a dictionary](https://stackoverflow.com/q/5844672)_
 * _[How do you return multiple values in Python?](https://stackoverflow.com/q/354883)_
+* _[pip install mysql-python fails with EnvironmentError: mysql_config not found](https://stackoverflow.com/q/5178292)_
