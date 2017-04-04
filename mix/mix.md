@@ -93,3 +93,7 @@ Find zen stories by accident into github trending.
 * [GitHub - Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide#1-basic-operations)
 
 trending bash guide
+<hr>
+* [GitHub - donnemartin/interactive-coding-challenges: Huge update!  Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki Flashcards.](https://github.com/donnemartin/interactive-coding-challenges)
+
+coding challenges
