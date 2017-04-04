@@ -97,3 +97,7 @@ trending bash guide
 * [GitHub - donnemartin/interactive-coding-challenges: Huge update!  Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki Flashcards.](https://github.com/donnemartin/interactive-coding-challenges)
 
 coding challenges
+<hr>
+* [GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview.](https://github.com/donnemartin/system-design-primer)
+
+system design
