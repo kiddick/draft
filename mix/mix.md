@@ -89,3 +89,7 @@ Some maths?
 * [禪](http://nkanaev.github.io/zen101/)
 
 Find zen stories by accident into github trending.
+<hr>
+* [GitHub - Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide#1-basic-operations)
+
+trending bash guide
