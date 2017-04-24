@@ -149,3 +149,4 @@
 * _[How to get file creation &amp; modification date/times in Python?](https://stackoverflow.com/q/237079)_
 * _[Why shouldn&#39;t I use PyPy over CPython if PyPy is 6.3 times faster?](https://stackoverflow.com/q/18946662)_
 * _[Count occurrence of a character in a string](https://stackoverflow.com/q/1155617)_
+* _[Is there a function in Python to print all the current properties and values of an object?](https://stackoverflow.com/q/192109)_
