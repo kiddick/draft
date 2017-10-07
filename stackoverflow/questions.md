@@ -152,3 +152,4 @@
 * _[Is there a function in Python to print all the current properties and values of an object?](https://stackoverflow.com/q/192109)_
 * _[How to get file creation &amp; modification date/times in Python?](https://stackoverflow.com/q/237079)_
 * _[Is there a built-in function to print all the current properties and values of an object?](https://stackoverflow.com/q/192109)_
+* _[Pythonic way to create a long multi-line string](https://stackoverflow.com/q/10660435)_
