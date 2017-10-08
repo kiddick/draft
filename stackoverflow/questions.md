@@ -154,3 +154,4 @@
 * _[Is there a built-in function to print all the current properties and values of an object?](https://stackoverflow.com/q/192109)_
 * _[Pythonic way to create a long multi-line string](https://stackoverflow.com/q/10660435)_
 * _[How do I create a constant in Python?](https://stackoverflow.com/q/2682745)_
+* _[How can I reverse a list in python?](https://stackoverflow.com/q/3940128)_
