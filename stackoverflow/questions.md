@@ -155,3 +155,4 @@
 * _[Pythonic way to create a long multi-line string](https://stackoverflow.com/q/10660435)_
 * _[How do I create a constant in Python?](https://stackoverflow.com/q/2682745)_
 * _[How can I reverse a list in python?](https://stackoverflow.com/q/3940128)_
+* _[What is the Python 3 equivalent of &quot;python -m SimpleHTTPServer&quot;](https://stackoverflow.com/q/7943751)_
