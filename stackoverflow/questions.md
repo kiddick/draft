@@ -156,3 +156,4 @@
 * _[How do I create a constant in Python?](https://stackoverflow.com/q/2682745)_
 * _[How can I reverse a list in python?](https://stackoverflow.com/q/3940128)_
 * _[What is the Python 3 equivalent of &quot;python -m SimpleHTTPServer&quot;](https://stackoverflow.com/q/7943751)_
+* _[Python @property versus getters and setters](https://stackoverflow.com/q/6618002)_
