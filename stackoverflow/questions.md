@@ -158,3 +158,4 @@
 * _[What is the Python 3 equivalent of &quot;python -m SimpleHTTPServer&quot;](https://stackoverflow.com/q/7943751)_
 * _[Python @property versus getters and setters](https://stackoverflow.com/q/6618002)_
 * _[python setup.py uninstall](https://stackoverflow.com/q/1550226)_
+* _[How to pip install packages according to requirements.txt from a local directory?](https://stackoverflow.com/q/7225900)_
