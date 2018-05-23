@@ -159,3 +159,4 @@
 * _[Python @property versus getters and setters](https://stackoverflow.com/q/6618002)_
 * _[python setup.py uninstall](https://stackoverflow.com/q/1550226)_
 * _[How to pip install packages according to requirements.txt from a local directory?](https://stackoverflow.com/q/7225900)_
+* _[How do I remove packages installed with Python&#39;s easy_install?](https://stackoverflow.com/q/1231688)_
