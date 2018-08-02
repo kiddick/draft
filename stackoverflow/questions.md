@@ -163,3 +163,4 @@
 * _[What are &quot;named tuples&quot; in Python?](https://stackoverflow.com/q/2970608)_
 * _[Python progression path - From apprentice to guru](https://stackoverflow.com/q/2573135)_
 * _[How does the @property decorator work?](https://stackoverflow.com/q/17330160)_
+* _[Is there a simple way to delete a list element by value?](https://stackoverflow.com/q/2793324)_
